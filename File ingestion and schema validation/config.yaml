@@ -1,0 +1,5 @@
+dataset_name: 'arboles.csv'
+dataset_name_to_save: 'arboles.csv.gz'
+separator_read: ','
+separator_write: '|'
+column_names: ['id', 'diametro', 'longitud', 'especie']
